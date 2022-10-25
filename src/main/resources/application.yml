@@ -1,0 +1,11 @@
+environment: development
+server:
+  port: 4500
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/flowopendev
+    username: developer
+    password: developer
+varTree:
+  authCode: xyz458
+  devName: Giuseppe
